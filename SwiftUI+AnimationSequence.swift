@@ -1,6 +1,5 @@
 //
 //  SwiftUI+AnimationSequence.swift
-//  Ball Game
 //
 //  Created by Thierry Passeron on 30/04/2021.
 //
