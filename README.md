@@ -1,5 +1,5 @@
 # SwiftUI-AnimationSequence
-A simple tool to allow multiple animations in a sequence.
+A simple tool for SwiftUI to allow multiple animations in a sequence.
 
 ## Usage
 
@@ -8,7 +8,7 @@ In place of multiple `withAnimation(...) { ... }` possibly wrapped in `DispatchQ
 ```swift
 AnimationSequence()
   .nextAnimation(...) {
-    // ... implicit animations here ... 
+    // ... animations here ... 
   }
   .nextAnimation(...) {
     // ...
